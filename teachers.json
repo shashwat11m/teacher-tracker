@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Mrs. Sharma",
+    "timetable": {
+      "Monday": ["10A", "10B", "Free", "9A", "Recess", "8A", "Staff Room", "Free"],
+      "Tuesday": ["9B", "Staff Room", "8A", "Free", "Recess", "10A", "Free", "10B"],
+      "Wednesday": ["Free", "9A", "9B", "Free", "Recess", "8A", "10B", "Staff Room"],
+      "Thursday": ["8A", "9B", "Free", "10A", "Recess", "Staff Room", "Free", "10B"],
+      "Friday": ["10B", "Free", "8A", "9A", "Recess", "Free", "Staff Room", "10A"],
+      "Saturday": ["Free", "9A", "9B", "Free", "Recess", "8A", "10B", "Free"]
+    }
+  },
+  {
+    "name": "Mr. Verma",
+    "timetable": {
+      "Monday": ["8B", "9B", "10A", "Free", "Recess", "Staff Room", "9A", "Free"],
+      "Tuesday": ["Free", "Free", "9B", "10B", "Recess", "8A", "9A", "Free"],
+      "Wednesday": ["10A", "Free", "Staff Room", "Free", "Recess", "10B", "Free", "8B"],
+      "Thursday": ["Free", "9A", "10A", "9B", "Recess", "10B", "Free", "Staff Room"],
+      "Friday": ["Free", "10B", "Free", "Free", "Recess", "8A", "10A", "9B"],
+      "Saturday": ["Free", "9A", "9B", "Free", "Recess", "8A", "Free", "Free"]
+    }
+  },
+  {
+    "name": "Ashutosh Mishra",
+    "timetable": {
+      "Monday": ["Free", "Free", "10C", "9C", "Recess", "Free", "8B", "Free"],
+      "Tuesday": ["9A", "10C", "Free", "Free", "Recess", "Staff Room", "Free", "Free"],
+      "Wednesday": ["Free", "Free", "9C", "Free", "Recess", "Free", "10C", "9A"],
+      "Thursday": ["8B", "Free", "Staff Room", "Free", "Recess", "Free", "Free", "10C"],
+      "Friday": ["Free", "9C", "10C", "Free", "Recess", "8B", "Free", "Staff Room"],
+      "Saturday": ["10C", "Free", "Free", "Free", "Recess", "Free", "Free", "Free"]
+    }
+  },
+  {
+    "name": "Mrs. Gupta",
+    "timetable": {
+      "Monday": ["Free", "8A", "8A", "Free", "Recess", "9C", "10A", "Staff Room"],
+      "Tuesday": ["Free", "Free", "9C", "Free", "Recess", "10B", "8A", "Free"],
+      "Wednesday": ["10B", "Free", "9A", "10A", "Recess", "Staff Room", "Free", "Free"],
+      "Thursday": ["Free", "9C", "Free", "8A", "Recess", "10A", "Free", "Free"],
+      "Friday": ["Free", "10B", "8A", "9C", "Recess", "Free", "Free", "Staff Room"],
+      "Saturday": ["Free", "Free", "Free", "Free", "Recess", "10A", "Free", "Free"]
+    }
+  },
+  {
+    "name": "Mr. Khan",
+    "timetable": {
+      "Monday": ["Staff Room", "Free", "10A", "9A", "Recess", "Free", "Free", "Free"],
+      "Tuesday": ["Free", "Free", "Free", "10B", "Recess", "Free", "9B", "Staff Room"],
+      "Wednesday": ["Free", "Free", "Free", "9A", "Recess", "Free", "10A", "10B"],
+      "Thursday": ["Free", "Free", "Free", "Staff Room", "Recess", "Free", "Free", "Free"],
+      "Friday": ["10A", "Free", "Free", "Free", "Recess", "Free", "9A", "9B"],
+      "Saturday": ["Free", "Free", "10B", "Free", "Recess", "Free", "Free", "Free"]
+    }
+  }
+]

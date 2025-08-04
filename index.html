@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Where is my Teacher?</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <h1>Where is my Teacher?</h1>
+        <p>Search to find out which class a teacher is in right now.</p>
+    </header>
+
+    <section id="search">
+        <div class="search-box">
+            <form id="searchForm">
+                <input type="text" id="teacherName" placeholder="Enter teacher's name..." list="teacherList" required />
+                <datalist id="teacherList"></datalist>
+                <button type="submit">Search</button>
+            </form>
+        </div>
+    </section>
+
+    <section id="result">
+        <h2>Current Class:</h2>
+        <div id="currentClass">—</div>
+    </section>
+
+    <section id="timetable">
+        <h2>Teacher Timetable</h2>
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Teacher</th>
+                        <th>Period 1</th>
+                        <th>Period 2</th>
+                        <th>Period 3</th>
+                        <th>Period 4</th>
+                        <th>Period 5</th>
+                        <th>Period 6</th>
+                        <th>Period 7</th>
+                        <th>Period 8</th>
+                    </tr>
+                </thead>
+                <tbody id="timetableBody"></tbody>
+            </table>
+        </div>
+    </section>
+
+    <footer>
+        <p>Made for school management • Shashwat Mishra</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
